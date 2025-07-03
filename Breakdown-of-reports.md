@@ -1,3 +1,4 @@
+![](./threatimage.png)
 # Red Teaming, Blue Teaming, or Executive Briefing Report breakdown
 
 Fantastic — let’s break this down into three parts so you can build a **threat intelligence workflow** that’s tailored to your role as a security analyst in 2025:
